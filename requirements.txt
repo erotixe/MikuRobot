@@ -58,3 +58,6 @@ pyshorteners
 faker
 pyfiglet
 MukeshAPI
+flask
+gunicorn
+aiohttp
